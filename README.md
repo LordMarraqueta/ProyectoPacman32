@@ -7,4 +7,3 @@ and having the solid base of an investigation, concluding with the sample of the
 the sample of the OLED screen and the Pacman game, and the rest of the
 of the physical circuit
 
-Translated with www.DeepL.com/Translator (free version)
